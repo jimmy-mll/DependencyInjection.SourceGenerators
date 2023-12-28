@@ -20,7 +20,7 @@
         <PackageTags>DependencyInjection;SourceGenerators;Ioc;</PackageTags>
         <Description>C# Source Generator to automatically register dependencies in Microsoft Dependency Injection Service Collection</Description>
         <Copyright>Copyright © Jimmy Millo</Copyright>
-        <RepositoryUrl>https://github.com/jimmy-mll/DependencyInjection.SourceGenerators</RepositoryUrl>
+        <RepositoryUrl>https://github.com/jimmy-mll/Microsoft.Extensions.DependencyInjection.SourceGenerators</RepositoryUrl>
         <PackageIcon>Icon.png</PackageIcon>
         <PackageLicenseExpression>MIT</PackageLicenseExpression>
     </PropertyGroup>

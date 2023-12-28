@@ -1,6 +1,6 @@
-# Contributing to Nexus
+# Contributing to Microsoft.Extensions.DependencyInjection.SourceGenerators
 
-Thank you for considering contributing to Nexus. By participating in this project, you agree to follow the guidelines outlined in this document. These guidelines ensure that contributions are consistent, maintainable, and aligned with the project's goals.
+Thank you for considering contributing to Microsoft.Extensions.DependencyInjection.SourceGenerators. By participating in this project, you agree to follow the guidelines outlined in this document. These guidelines ensure that contributions are consistent, maintainable, and aligned with the project's goals.
 
 ## Table of Contents
 
@@ -13,7 +13,7 @@ Thank you for considering contributing to Nexus. By participating in this projec
 
 ## Semantic Versioning
 
-Nexus follows [Semantic Versioning (SemVer)](https://semver.org/). Please make sure that your contributions comply with SemVer principles. This means that:
+Microsoft.Extensions.DependencyInjection.SourceGenerators follows [Semantic Versioning (SemVer)](https://semver.org/). Please make sure that your contributions comply with SemVer principles. This means that:
 
 - **MAJOR** version increments indicate incompatible changes.
 - **MINOR** version increments introduce backward-compatible features.
@@ -53,6 +53,6 @@ Use the project's issue tracker to report bugs, request features, or discuss imp
 
 ## License
 
-By contributing to Nexus, you agree that your contributions will be licensed under the project's [license](LICENSE.md). You retain the copyright to your contributions.
+By contributing to Microsoft.Extensions.DependencyInjection.SourceGenerators, you agree that your contributions will be licensed under the project's [license](LICENSE.md). You retain the copyright to your contributions.
 
-Thank you for your contributions to Nexus!
+Thank you for your contributions to Microsoft.Extensions.DependencyInjection.SourceGenerators!

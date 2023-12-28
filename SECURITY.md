@@ -2,7 +2,7 @@
 
 ## Supported Versions
 
-This section outlines which versions of Nexus are currently supported with security updates.
+This section outlines which versions of Microsoft.Extensions.DependencyInjection.SourceGenerators are currently supported with security updates.
 
 | Version | Supported          |
 | ------- | ------------------ |
@@ -11,7 +11,7 @@ This section outlines which versions of Nexus are currently supported with secur
 
 ## Reporting a Vulnerability
 
-If you discover a security vulnerability in Nexus, please report it to us as soon as possible. We take security seriously and will respond promptly to verify and address the issue.
+If you discover a security vulnerability in Microsoft.Extensions.DependencyInjection.SourceGenerators, please report it to us as soon as possible. We take security seriously and will respond promptly to verify and address the issue.
 
 To report a vulnerability, follow these steps:
 
@@ -33,4 +33,4 @@ Please be aware that vulnerabilities in unsupported versions may not be addresse
 
 ---
 
-We take security seriously, and we appreciate your assistance in keeping Nexus safe for all users.
+We take security seriously, and we appreciate your assistance in keeping Microsoft.Extensions.DependencyInjection.SourceGenerators safe for all users.
