@@ -3,8 +3,6 @@ name: ".NET"
 on:
   push:
     branches: ["main"]
-  pull_request:
-    branches: ["main"]
 
 jobs:
   build:
@@ -26,3 +24,11 @@ jobs:
       
     - name: Test
       run: dotnet test --no-build --verbosity normal
+
+    - name: Publish
+        run: dotnet publish -c Release
+
+    - name: Push to Nuget
+      env:
+        NUGET_TOKEN: ${{secrets.NUGET_TOKEN}}
+      run: dotnet nuget push --api-key $NUGET_TOKEN --source https://api.nuget.org/v3/index.json ./src/Microsoft.Extensions.DependencyInjection.SourceGenerators/bin/Release/*.nupkg
