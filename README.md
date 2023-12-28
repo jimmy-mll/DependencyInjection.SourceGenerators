@@ -86,7 +86,7 @@ public class MyService : IMyService;
 This will generate:
 
 ```csharp
-services.AddSingleton<IMyService, MyService>("myKey");
+services.AddKeyedSingleton<IMyService, MyService>("myKey");
 ```
 
 ## Multi-Assembly Configuration
