@@ -25,9 +25,6 @@
         <PackageLicenseFile>LICENSE.md</PackageLicenseFile>
         <PackageIcon>Icon.png</PackageIcon>
         <RepositoryUrl>https://github.com/jimmy.mll/Microsoft.Extensions.DependencyInjection.SourceGenerators</RepositoryUrl>
-        <RepositoryType>git</RepositoryType>
-        <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
-        <PackageLicenseExpression>MIT</PackageLicenseExpression>
     </PropertyGroup>
 
     <ItemGroup>
