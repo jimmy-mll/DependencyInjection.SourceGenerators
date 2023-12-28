@@ -15,7 +15,7 @@
         
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
         <PackageId>DependencyInjection.SourceGenerators</PackageId>
-        <PackageVersion>1.0.1</PackageVersion>
+        <PackageVersion>1.0.2</PackageVersion>
         <Authors>jimmy-mll</Authors>
         <PackageTags>DependencyInjection;SourceGenerators;Ioc;Register;Registration</PackageTags>
         <Description>C# Source Generator to automatically register dependencies in Microsoft Dependency Injection Service Collection</Description>
