@@ -7,7 +7,6 @@
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/jimmy-mll/Microsoft.Extensions.DependencyInjection.SourceGenerators)](https://github.com/jimmy-mll/Microsoft.Extensions.DependencyInjection.SourceGenerators/pulls)
 [![GitHub contributors](https://img.shields.io/github/contributors/jimmy-mll/Microsoft.Extensions.DependencyInjection.SourceGenerators)](https://github.com/jimmy-mll/Microsoft.Extensions.DependencyInjection.SourceGenerators/graphs/contributors)
 ![Github nuget package](https://img.shields.io/nuget/v/DependencyInjection.SourceGenerators)
-[![Github workflows status](https://github.com/jimmy-mll/Microsoft.Extensions.DependencyInjection.SourceGenerators/actions/workflows/dotnet.yml/badge.svg?branch=main)](https://github.com/jimmy-mll/Microsoft.Extensions.DependencyInjection.SourceGenerators/actions/workflows/dotnet.yml)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/jimmy-mll/Microsoft.Extensions.DependencyInjection.SourceGenerators)
 
 ## Overview
