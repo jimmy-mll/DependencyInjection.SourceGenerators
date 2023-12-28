@@ -15,13 +15,18 @@
         
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
         <PackageId>DependencyInjection.SourceGenerators</PackageId>
-        <PackageVersion>1.0.0</PackageVersion>
+        <PackageVersion>1.0.1</PackageVersion>
         <Authors>jimmy-mll</Authors>
         <PackageTags>DependencyInjection;SourceGenerators;Ioc;Register;Registration</PackageTags>
         <Description>C# Source Generator to automatically register dependencies in Microsoft Dependency Injection Service Collection</Description>
         <Copyright>Copyright © Jimmy Millo</Copyright>
-        <RepositoryUrl>https://github.com/jimmy-mll/Microsoft.Extensions.DependencyInjection.SourceGenerators</RepositoryUrl>
+        <PackageProjectUrl>https://github.com/jimmy.mll/Microsoft.Extensions.DependencyInjection.SourceGenerators</PackageProjectUrl>
+        <PackageReadmeFile>README.md</PackageReadmeFile>
+        <PackageLicenseFile>LICENSE.md</PackageLicenseFile>
         <PackageIcon>Icon.png</PackageIcon>
+        <RepositoryUrl>https://github.com/jimmy.mll/Microsoft.Extensions.DependencyInjection.SourceGenerators</RepositoryUrl>
+        <RepositoryType>git</RepositoryType>
+        <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
         <PackageLicenseExpression>MIT</PackageLicenseExpression>
     </PropertyGroup>
 

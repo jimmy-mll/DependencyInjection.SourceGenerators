@@ -34,7 +34,7 @@ dotnet add package DependencyInjection.SourceGenerators
 Or, add the package reference manually in your project file:
 
 ```xml
-<PackageReference Include="DependencyInjection.SourceGenerators" Version="1.0.0" />
+<PackageReference Include="DependencyInjection.SourceGenerators" Version="1.0.1" />
 ```
 
 ## Usage
