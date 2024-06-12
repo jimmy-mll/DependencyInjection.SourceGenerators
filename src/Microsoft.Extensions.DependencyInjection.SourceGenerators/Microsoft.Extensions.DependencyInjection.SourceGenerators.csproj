@@ -17,7 +17,7 @@
         <PackageId>DependencyInjection.SourceGenerators</PackageId>
         <PackageVersion>1.0.4</PackageVersion>
         <Authors>jimmy-mll</Authors>
-        <PackageTags>DependencyInjection;SourceGenerators;Ioc;Register;Registration</PackageTags>
+        <PackageTags>DependencyInjection;SourceGenerators;Ioc;Register;Registration;Extensions</PackageTags>
         <Description>C# Source Generator to automatically register dependencies in Microsoft Dependency Injection Service Collection</Description>
         <Copyright>Copyright © Jimmy Millo</Copyright>
         <PackageProjectUrl>https://github.com/jimmy-mll/Microsoft.Extensions.DependencyInjection.SourceGenerators</PackageProjectUrl>
