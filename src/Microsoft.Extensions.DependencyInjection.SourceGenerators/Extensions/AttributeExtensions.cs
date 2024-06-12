@@ -3,7 +3,7 @@ using Microsoft.Extensions.DependencyInjection.SourceGenerators.Models;
 
 namespace Microsoft.Extensions.DependencyInjection.SourceGenerators.Extensions;
 
-public static class AttributeExtensions
+internal static class AttributeExtensions
 {
     public static ServiceData ExtractServiceData(this AttributeData attribute)
     {

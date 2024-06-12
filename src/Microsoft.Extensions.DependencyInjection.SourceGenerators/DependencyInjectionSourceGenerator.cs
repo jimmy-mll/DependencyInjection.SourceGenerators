@@ -8,7 +8,7 @@ using Microsoft.Extensions.DependencyInjection.SourceGenerators.Models.Generated
 namespace Microsoft.Extensions.DependencyInjection.SourceGenerators;
 
 [Generator(LanguageNames.CSharp)]
-public sealed class DependencyInjectionSourceGenerator : IIncrementalGenerator
+internal sealed class DependencyInjectionSourceGenerator : IIncrementalGenerator
 {
     public const string Namespace = "Microsoft.Extensions.DependencyInjection";
     

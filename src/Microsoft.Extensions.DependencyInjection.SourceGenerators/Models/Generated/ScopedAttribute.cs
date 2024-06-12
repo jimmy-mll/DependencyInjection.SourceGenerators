@@ -1,6 +1,6 @@
 ﻿namespace Microsoft.Extensions.DependencyInjection.SourceGenerators.Models.Generated;
 
-public static class ScopedAttribute
+internal static class ScopedAttribute
 {
     public const string ShortName = "Scoped";
 

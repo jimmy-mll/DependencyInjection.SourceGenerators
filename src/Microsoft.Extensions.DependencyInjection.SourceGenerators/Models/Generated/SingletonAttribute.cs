@@ -1,6 +1,6 @@
 ﻿namespace Microsoft.Extensions.DependencyInjection.SourceGenerators.Models.Generated;
 
-public static class SingletonAttribute
+internal static class SingletonAttribute
 {
     public const string ShortName = "Singleton";
 

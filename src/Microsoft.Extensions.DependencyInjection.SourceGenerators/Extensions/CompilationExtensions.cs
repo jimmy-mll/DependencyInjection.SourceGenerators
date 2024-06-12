@@ -5,7 +5,7 @@ using Microsoft.Extensions.DependencyInjection.SourceGenerators.Models.Generated
 
 namespace Microsoft.Extensions.DependencyInjection.SourceGenerators.Extensions;
 
-public static class CompilationExtensions
+internal static class CompilationExtensions
 {
     public static IncrementalValueProvider<string> GetAssemblyName(this IncrementalValueProvider<Compilation> provider)
     {

@@ -7,7 +7,7 @@ using Microsoft.Extensions.DependencyInjection.SourceGenerators.Models;
 
 namespace Microsoft.Extensions.DependencyInjection.SourceGenerators;
 
-public static class DependencyInjectionGenerator
+internal static class DependencyInjectionGenerator
 {
     public static void Generate(SourceProductionContext context, string assemblyName, ImmutableArray<Service> services)
     {

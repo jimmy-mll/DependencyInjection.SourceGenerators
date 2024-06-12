@@ -1,5 +1,4 @@
-﻿using System.Collections.Immutable;
-using Microsoft.CodeAnalysis;
+﻿using Microsoft.CodeAnalysis;
 using Microsoft.CodeAnalysis.CSharp.Syntax;
 using Microsoft.Extensions.DependencyInjection.SourceGenerators.Extensions;
 using Microsoft.Extensions.DependencyInjection.SourceGenerators.Models;
@@ -7,7 +6,7 @@ using Microsoft.Extensions.DependencyInjection.SourceGenerators.Models.Generated
 
 namespace Microsoft.Extensions.DependencyInjection.SourceGenerators;
 
-public static class DependencyInjectionSyntaxProvider
+internal static class DependencyInjectionSyntaxProvider
 {
     public static bool Predicate(SyntaxNode node, CancellationToken cancellationToken)
     {

@@ -1,6 +1,6 @@
 ﻿namespace Microsoft.Extensions.DependencyInjection.SourceGenerators.Models.Generated;
 
-public static class TransientAttribute
+internal static class TransientAttribute
 {
     public const string ShortName = "Transient";
 

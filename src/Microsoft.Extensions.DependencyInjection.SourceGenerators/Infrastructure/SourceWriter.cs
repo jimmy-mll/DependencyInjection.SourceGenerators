@@ -4,7 +4,7 @@ using System.Text;
 namespace Microsoft.Extensions.DependencyInjection.SourceGenerators.Infrastructure;
 
 [DebuggerDisplay("{ToString(),nq}")]
-public sealed class SourceWriter
+internal sealed class SourceWriter
 {
     private readonly StringBuilder _sb = new();
 
