@@ -31,4 +31,4 @@ jobs:
     - name: Push to Nuget
       env:
         NUGET_TOKEN: ${{secrets.NUGET_TOKEN}}
-      run: dotnet nuget push --api-key $NUGET_TOKEN --source https://api.nuget.org/v3/index.json ./src/Microsoft.Extensions.DependencyInjection.SourceGenerators/bin/Release/*.nupkg
+      run: dotnet nuget push ./src/Microsoft.Extensions.DependencyInjection.SourceGenerators/bin/Release/*.nupkg --api-key $NUGET_TOKEN -source https://api.nuget.org/v3/index.json
